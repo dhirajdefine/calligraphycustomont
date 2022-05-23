@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_margin="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CALLIGRAPHY"
+        android:textSize="50dp"
+        android:textColor="@color/teal_200"
+        android:textStyle="italic"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#18EF2E"
+        android:fontFamily="@font/cinzelregular"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        android:text="CALLIGRAPHY "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#EF1F18"
+        android:fontFamily="@font/gtw"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        android:text="CALLIGRAPHY"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#EFCF18"
+        android:fontFamily="@font/oswaldstencbab"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        android:text="CALLIGRAPHY"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textColor="#12D6B5"
+        android:fontFamily="@font/robotobold"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:text="CALLIGRAPHY"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#2DC4F2"
+        android:fontFamily="@font/robotocondensedregular"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        android:text="CALLIGRAPHY "/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#D42DF2"
+        android:fontFamily="@font/robotobold"
+        android:textStyle="bold"
+        android:layout_margin="15dp"
+        android:text="CALLIGRAPHY "/>
+
+
+
+</LinearLayout>
